@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Evergreen Records",
+    "description": "",
+    "home_page_url": "https://olsoda.github.io/publii-test",
+    "feed_url": "https://olsoda.github.io/publii-test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "David Ryan Olson"
+    },
+    "items": [
+        {
+            "id": "https://olsoda.github.io/publii-test/test/",
+            "url": "https://olsoda.github.io/publii-test/test/",
+            "title": "Test",
+            "summary": "test",
+            "content_html": "<p>test</p>",
+            "author": {
+                "name": "David Ryan Olson"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-14T17:03:49-08:00",
+            "date_modified": "2023-02-14T17:03:49-08:00"
+        }
+    ]
+}

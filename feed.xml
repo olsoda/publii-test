@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Evergreen Records</title>
+    <link href="https://olsoda.github.io/publii-test/feed.xml" rel="self" />
+    <link href="https://olsoda.github.io/publii-test" />
+    <updated>2023-02-14T17:03:49-08:00</updated>
+    <author>
+        <name>David Ryan Olson</name>
+    </author>
+    <id>https://olsoda.github.io/publii-test</id>
+
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>David Ryan Olson</name>
+        </author>
+        <link href="https://olsoda.github.io/publii-test/test/"/>
+        <id>https://olsoda.github.io/publii-test/test/</id>
+
+        <updated>2023-02-14T17:03:49-08:00</updated>
+            <summary>
+                <![CDATA[
+                    test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
